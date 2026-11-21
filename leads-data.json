@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-11-21T21:05:00",
+  "demo": true,
+  "items": [
+    {
+      "id": "demo-hz-music-2026",
+      "title": "杭州户外音乐节 · 春季档招商",
+      "org": "某文化传播有限公司",
+      "area": "华东",
+      "region": "杭州",
+      "category": "音乐节",
+      "deadline": "2026-12-15",
+      "budget": "80-150 万",
+      "summary": "主办方在找春季户外音乐节的艺人阵容与商务合作，偏好有现场代表作的乐队/歌手，需要提供过往演出视频与报价。",
+      "score": 86,
+      "url": "https://www.damai.cn",
+      "tags": ["现场演出", "阵容招商"],
+      "source": "示例数据",
+      "publishedAt": "2026-11-20",
+      "demo": true
+    },
+    {
+      "id": "demo-sh-mall-anniv",
+      "title": "上海商场周年庆 · 暖场商演",
+      "org": "某商业管理公司",
+      "area": "华东",
+      "region": "上海",
+      "category": "商演/活动",
+      "deadline": "2026-12-05",
+      "budget": "8-15 万",
+      "summary": "商场周年庆需要 2-3 场周末暖场演出，单场 40 分钟，含互动环节，希望艺人形象亲和、能带动客流。",
+      "score": 72,
+      "url": "https://www.douyin.com",
+      "tags": ["商演", "周末档"],
+      "source": "示例数据",
+      "publishedAt": "2026-11-18",
+      "demo": true
+    },
+    {
+      "id": "demo-sz-brand",
+      "title": "深圳新消费品牌 · 年度代言人",
+      "org": "某新消费品牌",
+      "area": "华南",
+      "region": "深圳",
+      "category": "品牌代言",
+      "deadline": "2026-11-30",
+      "budget": "100-200 万/年",
+      "summary": "品牌寻找年度代言人，要求社交平台粉丝 300 万以上、形象年轻，需配合两次线下活动与季度内容拍摄。",
+      "score": 91,
+      "url": "https://www.xiaohongshu.com",
+      "tags": ["代言", "年度合作"],
+      "source": "示例数据",
+      "publishedAt": "2026-11-17",
+      "demo": true
+    }
+  ]
+}
